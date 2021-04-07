@@ -1,0 +1,17 @@
+Data download link: https://github.com/mdcollab/covidclinicaldata/tree/master/data/
+Download date: 31-March-2021
+
+Owner of data repository:
+@dataset{2020covidclinicaldata,
+  author =       {Carbon Health and Braid Health},
+  title =        {Coronavirus Disease 2019 (COVID-19) Clinical Data Repository},
+  howpublished = {Accessed from \url{https://covidclinicaldata.org/.}},
+  year =         2020,
+  version =      {10-20-2020}
+}
+
+License for data repository:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Details about the original project:
+https://github.com/mdcollab/covidclinicaldata
